@@ -10,10 +10,14 @@
 
   <PropertyGroup>
   <PackageId>IEnumerable.Append</PackageId>
+  <Title>IEnumerable.Append</Title>
+  <Summary>An extension of `IEnumerable` that allows a single item to be concatenated on to an existing enumerable collection.</Summary>
   <PackageDescription>An extension of `IEnumerable` that allows a single item to be concatenated on to an existing enumerable collection.</PackageDescription>
   <PackageLicenseExpression>MIT</PackageLicenseExpression>
   <PackageTags>IEnumerable;Append;Extension</PackageTags>
+  <RepositoryType>git</RepositoryType>
   <RepositoryUrl>https://github.com/iamandylamb/ienumerable.append</RepositoryUrl>
+  <ProjectUrl>https://github.com/iamandylamb/ienumerable.append</ProjectUrl>
   <Version>1.0.0</Version>
   <Authors>iamandylamb</Authors>
   </PropertyGroup>
