@@ -22,12 +22,7 @@
   <ProjectUrl>https://github.com/iamandylamb/ienumerable.append</ProjectUrl>
   <Version>1.1.0</Version>
   <Authors>iamandylamb</Authors>
-  <PackageReleaseNotes>
-  ## 1.1.0
-  Added support for other .NET versions.
-  ## 1.0.0
-  An extension of `IEnumerable` that allows a single item to be concatenated on to an existing enumerable collection.
-  </PackageReleaseNotes>
+  <PackageReleaseNotes>Added support for other .NET versions.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>

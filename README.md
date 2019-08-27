@@ -19,7 +19,7 @@ namespace Example
 
             IEnumerable<string> output = input.Append("amet");
 
-            Console.WriteLine(string.Join(" ", output));
+            Console.WriteLine(string.Join(" ", output)); 
         }
     }
 }
